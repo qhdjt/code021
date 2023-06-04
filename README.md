@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-**代码，从0到1**
-=======
-# code021
->>>>>>> refs/remotes/origin/main
+**代码，从0到1**  
+python  
+c/c++  
